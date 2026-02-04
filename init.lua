@@ -1,2 +1,2 @@
-require("lucky.core")
 require("config.lazy")
+require("lucky.core")
